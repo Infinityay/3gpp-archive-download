@@ -1,0 +1,4 @@
+# .gitignore
+__pycache__/
+.idea/
+error.log
